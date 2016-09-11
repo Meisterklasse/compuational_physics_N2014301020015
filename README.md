@@ -1,1 +1,16 @@
-# compuational_physics_N2014301020015
+## Homework list ##
+
+ 1. [exercise 1](1)
+ 2. [exercise 2](www)
+ 3. [exercise 3](www)
+ 4. [exercise 4](1)
+ 5. [exercise 5](1)
+ 6. [exercise 6](1)
+ 7. [exercise 7](1)
+ 8. [exercise 8](1)
+ 9. [exercise 9](1)
+ 10. [exercise 10](1)
+ 11. [exercise 11](1)
+ 12. [exercise 12](1)
+ 13. [exercise 13](1)
+ 14. [exercise 14](1)
