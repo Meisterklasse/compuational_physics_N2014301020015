@@ -1,6 +1,6 @@
 ## Homework list ##
 
- 1. [第二次作业]()
+ 1. [第二次作业](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/temp.py)
  2. [第三次作业]
  3. [第四次作业]
  4. [第五次作业]
