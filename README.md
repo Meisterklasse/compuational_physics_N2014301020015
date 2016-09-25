@@ -1,7 +1,8 @@
 ## Homework list ##
  1. [第一次作业](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/README.md)
  2. [第二次作业](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/temp.py)
- 3. [第三次作业]
+ 3. [第三次作业L1]
+    [第三次作业L2]
  4. [第四次作业]
  5. [第五次作业]
  6. [第六次作业]
