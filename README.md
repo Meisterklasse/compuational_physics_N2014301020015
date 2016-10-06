@@ -1,14 +1,22 @@
-## Homework list ##
- 1. [第一次作业](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/README.md)
- 2. [第二次作业](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/temp.py)
- 3. [第三次作业L1](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9AL1.py)
-    [第三次作业L2](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9AL2.py)
- 4. [第四次作业]
- 5. [第五次作业]
- 6. [第六次作业]
- 7. [第七次作业]
- 8. [第八次作业]
- 9. [第九次作业]
- 10. [第十次作业]
- 11. [第十一次作业]
- 12. [第十二次作业]
+## 第四次作业 ##
+
+摘要
+--
+习题1.5，考虑两个可以互相转化的核A和B，衰变（严格的说不算是衰变）的公式已给出，NA=100，NB=0，tau=1s，模拟出衰变图表。
+
+背景介绍
+--
+根据课上所学的一类核衰变的解法，可以类比的模拟出两种核衰变的情况。
+
+正文
+--
+[代码点此处显示。](https://github.com/Meisterklasse/compuational_physics_N2014301020015/blob/master/exercise1.5.py)
+模拟图如下：
+
+结论
+--
+成功运用matplotlib绘制出图形，结果与预期符合的很好。
+
+致谢
+--
+依照蔡浩老师上课所展示的代码修改而成。
